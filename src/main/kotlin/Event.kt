@@ -10,3 +10,4 @@ data class Event(
     val daypart: Daypart,
     val durationInMinutes: Int,
 )
+
